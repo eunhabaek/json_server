@@ -1,8 +1,7 @@
 {
-  "posts1": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "": [
+    { "id": "beh240957@", "pw": "12345678","data":{"data":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c","refreshToken":""}}}
+
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -10,5 +9,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "signup": {
+    "id":"beh240957@",
+    "pw":"12345678",
+    "nickname":"eunha",
+    "gender":"1",
+    "birthYear":"1997"
   }
 }
