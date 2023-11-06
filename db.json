@@ -1,20 +1,18 @@
 {
-  "": [
-    { "id": "beh240957@", "pw": "12345678","data":{"data":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c","refreshToken":""}}}
-
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "signup": {
-    "id":"beh240957@",
-    "pw":"12345678",
-    "nickname":"eunha",
-    "gender":"1",
-    "birthYear":"1997"
-  }
+  "signup": [
+    {
+      "id": "beh2549@gmail.com",
+      "pw": "12345678",
+      "nickname": "eunha",
+      "gender": "1",
+      "birthYear": "1997"
+    },
+    {
+      "id": "test@gmail.com",
+      "pw": "12345678",
+      "nickname": "test",
+      "gender": "0",
+      "birthYear": "2023"
+    }
+  ]
 }
