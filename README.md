@@ -2,7 +2,7 @@
 
 ## Start Your Own Json-server
 ```
-json-server --watch db.json --port [portnumber]
+json-server --watch db.json --port 30
 ```
 
 ## Visit your Json-server web
