@@ -14,5 +14,12 @@
       "gender": "0",
       "birthYear": "2023"
     }
+  ],
+  "ratings": [
+    {
+      "id": "beh2549@gmail.com",
+      "content_id": "2",
+      "rating": 4
+    }
   ]
 }
